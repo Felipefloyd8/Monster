@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 11 Oct 2024 20:07:54 at https://nextgenerationdev.com/demos/html/atos/atos/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://nextgenerationdev.com/demos/html/atos/atos/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://nextgenerationdev.com/demos/html/atos/atos/ -O1 "C:\Users\CFK GROUP 10\Desktop\Monster" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://nextgenerationdev.com/demos/html/atos/atos/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:08:28	Error: 	"Not Found" (404) at link https://nextgenerationdev.com/demos/html/atos/atos/assets/css/owl.video.play.png (from https://nextgenerationdev.com/demos/html/atos/atos/assets/css/owl.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 seconds : 132 links scanned, 130 files written (10941935 bytes overall) [9272165 bytes received at 272710 bytes/sec], 2269478 bytes transferred using HTTP compression in 37 files, ratio 24%, 22.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
